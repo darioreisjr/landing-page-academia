@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'fakeidentify';
+    src: url(../fonts/Fake\ Identity.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'romansd';
+    src: url(../fonts/Roman\ SD.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paclibertas';
+    src: url(../fonts/PAC\ LIBERTAS\ font.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
